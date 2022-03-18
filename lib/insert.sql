@@ -1,0 +1,8 @@
+INSERT INTO bears VALUES (1, Mr. Chocolate, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (2, Rowdy, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (3, Tabitha, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (4, Sergeant Brown, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (5, Melissa, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (6, Grinch, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (7, Wendy, 45, M, blue, angry, true)
+INSERT INTO bears VALUES (8, null, 45, M, blue, angry, true)
